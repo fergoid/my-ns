@@ -5,3 +5,6 @@ memory: 256M
 host: my-ns
 domain: paasnp.bip.uk.fid-intl.com
 instances: 2
+services:
+- applogger
+
