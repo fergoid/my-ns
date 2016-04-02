@@ -2,7 +2,7 @@
 name: my-ns
 command: node server.js
 memory: 256M
-host: my-ns
+host: my-nss
 domain: paasnp.bip.uk.fid-intl.com
 instances: 2
 services:
