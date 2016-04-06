@@ -11,5 +11,8 @@
   "dependencies": {
     "express": "^4.13.1"
   },
-  "repository" : "npm/npm"
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/fergoid/my-ns.git"
+  }
 }
