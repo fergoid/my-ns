@@ -1,3 +1,4 @@
+trigger  abuild
 
 # my-ns
 Node.js hello world for PCF.
