@@ -9,7 +9,7 @@ http.createServer(app).listen(app.get('port'), function() {
 
 app.get('/now', function(request, response) {
 	var d = new Date();
-	console.log("Received Date request from Mark");
+	console.log("Received Date request from someone");
 	response.status(200).send({date: d});
 
 });
